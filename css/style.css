@@ -34,6 +34,11 @@ header{
 
 }
 
+header.sticky{
+    background-color: lightcyan;
+    padding: 20px 10%;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
+}
 .logo img{
     max-width: 120px;
     height: auto;
@@ -186,3 +191,13 @@ section{
     transition: all .42s ease;
 }
 
+.center-text h2{
+    color: var(--cor-preto);
+    font-size: 28px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.center-text span{
+    color: salmon;
+}
