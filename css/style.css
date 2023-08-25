@@ -152,6 +152,13 @@ section{
     vertical-align: middle;
 }
 
+.main-text h4{
+    color: #333c56;
+    margin-top: 9px;
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
 
 .main-text h5{
     color: #333c56;
